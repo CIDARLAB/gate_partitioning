@@ -1,0 +1,18 @@
+node	type	sensor/gate	params	partition
+112	primitive	12-2	[0.003, 2.1, 0.04, 2.6]	1
+A	output	na	na	na
+114	primitive	9-3	[0.02, 6.8, 0.23, 4.2]	1
+cout	output	na	na	na
+x	input	PTac	[2.8, 0.0034]	na
+105	primitive	3-1	[0.07, 3.8, 0.41, 2.4]	1
+111	primitive	12-4	[0.007, 2.1, 0.1, 2.8]	0
+110	primitive	11-2	[0.03, 2.8, 0.21, 2.4]	1
+y	input	PTet	[4.4, 0.0013]	na
+104	primitive	2-1	[0.06, 3.8, 0.07, 1.6]	0
+107	primitive	8-1	[0.2, 2.2, 0.18, 2.1]	0
+106	primitive	7-1	[0.07, 4.3, 0.05, 1.7]	0
+108	primitive	9-3	[0.02, 6.8, 0.23, 4.2]	0
+cin	input	PBAD	[2.5, 0.0082]	na
+103	primitive	11-2	[0.03, 2.8, 0.21, 2.4]	0
+113	primitive	2-1	[0.06, 3.8, 0.07, 1.6]	1
+109	primitive	1-1	[0.2, 3.8, 0.09, 1.4]	1
